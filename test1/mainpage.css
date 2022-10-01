@@ -1,0 +1,83 @@
+﻿
+.header {
+    height: 10vh;
+}
+
+.navbar-style {
+    box-shadow: 0 5px 10px #efefef;
+}
+
+.navbar-header img {
+    height: 60px;
+    width: 200px;
+    padding: 2px;
+    20px;
+}
+
+.col-sm-6 img {
+    heigt: 800px;
+    width: 600px;
+}
+
+
+.icon-bar {
+    background: darkorange;
+}
+
+.big-text {
+    font-size: 52px;
+    margin: 20px 0;
+    color: darkorange;
+}
+
+a.btn {
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+a.btn-first {
+    background-color: darkorange;
+    color: #fff;
+}
+
+a.btn-second {
+    background: transparent;
+    border: 1px solid darkorange;
+    color: #333;
+}
+
+a.btn:hover {
+    background: darkorange;
+    boarder: none;
+    color: #fff;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+}
+
+.course {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.medium-text {
+    font-size: 30px;
+    margin: 30px 0px;
+    color: darkorange;
+}
+
+.cartoon img {
+    heigt: 2000px;
+    width: 1200px;
+}
+
+.footer {
+    background-color: orange;
+    height: 160px;
+    text-align: center;
+    padding: 20px;
+    flex: 1 1 25rem;
+}

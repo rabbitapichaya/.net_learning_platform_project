@@ -1,0 +1,37 @@
+﻿.box {
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    width: 250px;
+    height: 435px;
+    background-image: url("image/wall1.jpg");
+    font-family: monospace;
+    border-radius: 10px;
+    font-size: 15px;    
+}
+a:link.edit, a:visited.edit, a:link.delete,
+a:visited.delete {
+    font-size: 10pt;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
+a:hover.edit, a:active.edit {
+    background-color: green;
+}
+
+a.edit {
+    background-color: #00a46e;
+}
+
+a:hover.delete, a:active.delete {
+    background-color: red;
+}
+
+a.delete {
+    background-color: #ff6f6f;
+}
+
